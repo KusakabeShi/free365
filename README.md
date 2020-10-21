@@ -1,10 +1,10 @@
 # free365
-A collection of free office 365 registration site.
+A collection of free office 365 account registration site.
 
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| A1P               | http://www.yopmail.com/en/                            | nCov.office.gy                   | 5TB | X    | X  | Join Group "中国加油！武汉加油！" |
+| A1P               | http://www.yopmail.com/en/                            | ncov.office.gy                   | 5TB | X    | X  | Join Group "中国加油！武汉加油！" |
 | A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | O    |    |                                   |
 | A1                | https://a1_sc.a1od.workers.dev                        | a1.u365.org                      | 5TB | O    |    |                                   |
 | A1                | https://od.kbbldh.workers.dev                         | lbbldh.tk                        | 5TB | O    |    |                                   |
