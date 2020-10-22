@@ -18,4 +18,4 @@ A collection of free office 365 account registration site.
 | Teams Exploratory | https://od.malahu.tk  https://malahu.n5.myws.ca/      | malahu.tk                        | 1TB | O    | X  |                                   |
 | E3SY              | https://freeoffice365.me                              | office.jimschool.org             | 5TB | O    | X  |                                   |
 
-T in OD means I get Throttle.htm
+```T``` 的意思是我幾天過後，還是進不了OD，只看到```Throttle.htm```。大概率全局翻車，只是API還活著
