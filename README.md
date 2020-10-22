@@ -3,16 +3,20 @@ A collection of sites which can get a free office 365 account. PRs welcome.
 
 刪除線代表已經失效，謹作紀念
 
-偷渡許可，須至[Office 365 Education](https://products.office.com/en-us/student?tab=students)自行這冊。此分類全部沒有email
+偷渡許可，須至[Office 365 Education](https://products.office.com/en-us/student?tab=students)自行這冊。
+===
+此分類全部沒有開通email
 | Licence   | URL                                                   | Domain                           | OD  | AZ | Comment                                     |
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|---------------------------------------------|
 | A1+A1P    | http://www.yopmail.com/en/                            | ncov.office.gy                   | 5TB |    | Join Group "中国加油！武汉加油！" to get A1P  |
 | A1        | https://mail365.xyz/                                  | mail365.xyz                      | 5TB |    |                                             |
-| A1+A1P    | ~~http://www.yopmail.com/en/~~                        | stu.mao.office.gy                | 1GB |    | Join Group "Nuran.com" to get A1P           |
+| A1+A1P    | ~~http://24mail.chacuo.net/~~                         | stu.mao.office.gy                | 1GB |    | Join Group "Nuran.com" to get A1P           |
 | A1        | ~~https://www.1tb.fun/~~                              | t.mit.edu.ge                     | 5TB |    |                                             |
 
 
 自助平台，可直接取得帳密
+===
+
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
 | A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | O    |    |                                   |
