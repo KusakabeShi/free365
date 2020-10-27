@@ -1,6 +1,8 @@
 # free365
 A collection of sites that can get a free office 365 account. PRs welcome.
 
+一些免費發放的office365子號的網站。pull request大歡迎
+
 刪除線代表已經失效，謹作紀念
 
 偷渡許可，須至[Office 365 Education](https://products.office.com/en-us/student?tab=students)自行這冊。
