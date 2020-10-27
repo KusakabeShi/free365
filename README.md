@@ -1,7 +1,16 @@
 # free365
-A collection of sites that can get a free office 365 account. PRs welcome.
 
-一些免費發放的office365子號的網站。pull request大歡迎
+一些免費發放的office365子號的網站。
+
+如果有人有列表中沒有的，或是列表中的掛了，或是有人幫我測試了列表中空白的欄位，pull request大歡迎，issue也可以
+
+如果能夠有表格中的測試(Onedrive容量/是否開通Email解析/AZ stu)就更讚了!
+
+AZ需要手機號才能測試，留空的表示不知道。
+我不會要求大家去嘗試，但是如果有人已經嘗試過了，能回報一下的話就太感謝了!
+
+而OD我每個都測試過了，留空的表示開不起來，有可能是因為新帳號，OD開通要時間。
+而```T``` 的意思是我看到```Throttle.htm```。大概率已經翻車，只是API還活著
 
 刪除線代表已經失效，謹作紀念
 
@@ -33,12 +42,3 @@ A collection of sites that can get a free office 365 account. PRs welcome.
 | A1                | https://get.porta1.net/                               | usenode.net                      | 1TB | X    |    |                                   |
 | Teams Exploratory | https://od.malahu.tk  https://malahu.n5.myws.ca/      | malahu.tk                        | 1TB | X    | X  |                                   |
 | E3SY              | https://freeoffice365.me                              | office.jimschool.org             | 5TB | X    | X  |                                   |
-
-如果有人有列表中沒有的，或是列表中的掛了，歡迎發issue或是pull request通知我更新
-
-如果能夠有表格中的測試(Onedrive容量/是否開通Email解析/AZ stu)就更讚了!
-
-AZ需要手機號才能測試，留空的表示不知道。
-我不會要求大家去嘗試，但是如果有人已經嘗試過了，能回報一下的話就太感謝了!
-
-而OD我每個都測試過了，留空的表示開不起來，有可能是因為新帳號，OD開通要時間。而```T``` 的意思是我看到```Throttle.htm```。大概率已經翻車，只是API還活著
