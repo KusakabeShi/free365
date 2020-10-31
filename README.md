@@ -10,7 +10,6 @@ AZ需要手機號才能測試，留空的表示不知道。
 我不會要求大家去嘗試，但是如果有人已經嘗試過了，能回報一下的話就太感謝了!
 
 而OD我每個都測試過了，留空的表示開不起來，有可能是因為新帳號，OD開通要時間。
-而```T``` 的意思是我看到```Throttle.htm```。大概率已經翻車，只是API還活著
 
 刪除線代表已經失效，謹作紀念
 
@@ -35,10 +34,13 @@ AZ需要手機號才能測試，留空的表示不知道。
 | A1                | https://od.kbbldh.workers.dev                         | lbbldh.tk                        | 5TB | X    |    |                                   |
 | A1                | https://azzzzzz.lx.workers.dev                        | moe.bartonclough.co.uk           | 1TB | O    | O  |                                   |
 | A1                | https://a1.lx.workers.dev                             | 2002000.xyz                      | 5TB | X    | X  |                                   |
-| A1                | http://office.zx.al                                   | my365.ws  splogs.onmicrosoft.com | T   | O    |    |                                   |
+| A1                | http://office.zx.al                                   | my365.ws  splogs.onmicrosoft.com | X   | O    |    |                                   |
 | A1                | https://od.wulel.cn  https://od.wasonliu.workers.dev/ | f.odpan.cn                       | 5TB | X    |    |                                   |
-| A1                | https://zcnp.azurewebsites.net                        | niup.onmicrosoft.com             | T   | O    | X  |                                   |
-| A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | T   | O    | X  |                                   |
+| A1                | https://zcnp.azurewebsites.net                        | niup.onmicrosoft.com             | X   | O    | X  |                                   |
+| A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usenode.net                      | 1TB | X    |    |                                   |
 | Teams Exploratory | https://od.malahu.tk  https://malahu.n5.myws.ca/      | malahu.tk                        | 5TB | X    | X  |                                   |
 | E3SY              | https://freeoffice365.me                              | office.jimschool.org             | 5TB | X    | X  |                                   |
+
+```X``` 的意思是我看到```Throttle.htm```。大概率已經翻車，
+
