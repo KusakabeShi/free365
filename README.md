@@ -18,10 +18,11 @@ AZ需要手機號才能測試，留空的表示不知道。
 此分類全部沒有開通email
 | Licence   | URL                                                   | Domain                           | OD  | AZ | Comment                                         |
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|
-| A1+A1P    | http://www.yopmail.com/en/                            | ncov.office.gy                   | 5TB |    | Join Group ```中国加油！武汉加油！``` to get A1P  |
+| A1+A1P    | http://www.yopmail.com/en/                            | ncov.office.gy                   | 5TB |    | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
+| A1+A1P    | http://24mail.chacuo.net/                             | stu.mao.office.gy                | 1**GB** |    | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
 | A1        | https://mail365.xyz/                                  | mail365.xyz                      | 5TB |    |                                                 |
-| A1        | https://www.1tb.fun/                                  | stu.mit.edu.ge                   | 5TB |    |                                                 |
-| A1+A1P    | ~~http://24mail.chacuo.net/~~                         | stu.mao.office.gy                | 1GB |    | Join Group ```Nuran.com``` to get A1P           |
+| A1        | ~~https://www.1tb.fun/~~                              | stu.mit.edu.ge                   | 5TB |    |                                                 |
+
 
 
 自助平台，可直接取得帳密
