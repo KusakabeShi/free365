@@ -21,7 +21,6 @@ AZ需要手機號才能測試，留空的表示不知道。
 | A1+A1P    | http://www.yopmail.com/en/                            | ncov.office.gy                   | 5TB |    | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
 | A1+A1P    | http://24mail.chacuo.net/                             | stu.mao.office.gy                | 1**GB** |    | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
 | A1        | https://mail365.xyz/                                  | mail365.xyz                      | 5TB |    |                                                 |
-| A1        | https://www.1tb.fun/                                  | stu.mit.edu.ge                   | 5TB |    |                                                 |
 
 
 
@@ -40,7 +39,6 @@ AZ需要手機號才能測試，留空的表示不知道。
 | A1                | https://zcnp.azurewebsites.net                        | niup.onmicrosoft.com             | X   | O    | X  |                                   |
 | A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usenode.net                      | 1TB | X    |    |                                   |
-| Teams Exploratory | https://od.malahu.tk  https://malahu.n5.myws.ca/      | malahu.tk                        | 5TB | X    | X  |                                   |
 | E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                                   |
 
 ```X``` 的意思是我看到```Throttle.htm```。大概率已經翻車，
