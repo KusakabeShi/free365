@@ -41,7 +41,7 @@ AZ需要手機號才能測試，留空的表示不知道。
 | A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usenode.net                      | 1TB | X    |    |                                   |
 | Teams Exploratory | https://od.malahu.tk  https://malahu.n5.myws.ca/      | malahu.tk                        | 5TB | X    | X  |                                   |
-| E3SY              | https://freeoffice365.me                              | office.jimschool.org             | 5TB | X    | X  |                                   |
+| E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                                   |
 
 ```X``` 的意思是我看到```Throttle.htm```。大概率已經翻車，
 
