@@ -1,21 +1,21 @@
 # free365
 
-一些免費發放的office365子號的網站。
+我搜集到的免费发放office365子号的网站。
 
-如果有人有列表中沒有的，或是列表中的掛了，或是有人幫我測試了列表中空白的欄位，pull request大歡迎，issue也可以
+如果有人有列表中没有的，或是列表中的挂了，或是有人帮我测试了列表中空白的栏位，pull request大欢迎，issue也可以
 
-如果能夠有表格中的測試(Onedrive容量/是否開通Email解析/能否通過AZ stu)就更讚了!
+如果能够有表格中的测试(Onedrive容量/是否开通Email解析/能否通过AZ stu)就更赞了!
 
-AZ需要手機號才能測試，留空的表示不知道。
-我不會要求大家去嘗試，但是如果有人已經嘗試過了，能回報一下的話就太感謝了!
+AZ需要手机号才能测试，留空的表示不知道。
+我不会要求大家去尝试，但是如果有人已经尝试过了，能回报一下的话就太感谢了!
 
-而OD(Onedrive)我每個都測試過了，留空的表示開不起來，有可能是因為新帳號，OD開通要時間。
+而OD(Onedrive)我每个都测试过了，留空的表示开不起来，有可能是因为新帐号，OD开通要时间。
 
-刪除線代表已經翻車，謹作紀念
+删除线代表已经翻车，谨作纪念
 
-偷渡許可，須至[Office 365 Education](https://products.office.com/en-us/student?tab=students)自行這冊。
+偷渡许可，须至[Office 365 Education](https://products.office.com/en-us/student?tab=students)自行这册。
 ===
-此分類全部沒有開通email
+此分类全部没有开通email
 | Licence   | URL                                                   | Domain                           | OD  | AZ | Comment                                         |
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|
 | A1+A1P    | http://www.yopmail.com/en/                            | ncov.office.gy                   | 5TB | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
@@ -24,7 +24,7 @@ AZ需要手機號才能測試，留空的表示不知道。
 | A1        | http://www.yopmail.com/en/                            | gpsurendranagar.org              | 1TB |X   |                                                 |
 
 
-自助平台，可直接取得帳密
+自助平台，可直接取得帐密
 ===
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
@@ -41,5 +41,5 @@ AZ需要手機號才能測試，留空的表示不知道。
 | A1                | https://get.porta1.net/                               | usenode.net                      | 1TB | X    |    |                                   |
 | E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                                   |
 
-```X``` 的意思是我看到```Throttle.htm```。大概率已經翻車，
+```X``` 的意思是我看到```Throttle.htm```。大概率已经翻车
 
