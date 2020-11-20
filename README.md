@@ -13,7 +13,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 
 删除线代表已经翻车，谨作纪念
 
-偷渡许可，须至[Office 365 Education](https://products.office.com/en-us/student?tab=students)自行这册。
+偷渡许可，须至[Office 365 Education](https://products.office.com/en-us/student?tab=students)自行偷渡。
 ===
 此分类全部没有开通email
 | Licence   | URL                                                   | Domain                           | OD  | AZ | Comment                                         |
