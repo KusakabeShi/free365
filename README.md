@@ -42,7 +42,6 @@ AZ需要手机号才能测试，留空的表示不知道。
 | A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usenode.net                      | 1TB | X    |    |                                   |
 | A1                | https://onedrive.gdrive.vip/#form                     | onedrive5tb.com                  | 5TB | O    |    |                                   |
-
 | E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                                   |
 
 ```X``` 的意思是我看到```Throttle.htm```。大概率SP已经翻车
