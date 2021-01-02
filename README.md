@@ -22,8 +22,8 @@ AZ需要手机号才能测试，留空的表示不知道。
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|
 | A1+A1P    | http://www.yopmail.com/en/                            | ncov.office.gy                   | 5TB | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
 | A1+A1P    | http://24mail.chacuo.net/                             | stu.mao.office.gy                | 1**GB** |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
-| A1        | https://mail365.xyz/                                  | mail365.xyz                      | 5TB |X   |                                                 |
 | A1        | http://www.yopmail.com/en/                            | gpsurendranagar.org              | 1TB |X   |                                                 |
+| A1        | ~~https://mail365.xyz/~~                              | mail365.xyz                      | 5TB |X   |                                                 |
 
 
 自助平台，可直接取得帐密
