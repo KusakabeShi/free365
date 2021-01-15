@@ -34,7 +34,6 @@ AZ需要手机号才能测试，留空的表示不知道。
 | A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | X    |    |                                   |
 | A1                | https://a1_sc.a1od.workers.dev                        | a1.u365.org                      | 5TB | X    |    |                                   |
 | A1                | https://od.kbbldh.workers.dev                         | lbbldh.tk                        | 5TB | X    |    |                                   |
-| A1                | https://azzzzzz.lx.workers.dev                        | moe.bartonclough.co.uk           | 1TB | X    | X  |                                   |
 | A1                | https://a1.lx.workers.dev                             | 2002000.xyz                      | 5TB | X    | X  |                                   |
 | A1                | http://office.zx.al                                   | my365.ws  splogs.onmicrosoft.com | X   | O    |    |                                   |
 | A1                | https://od.wulel.cn  https://od.wasonliu.workers.dev/ | f.odpan.cn                       | 5TB | X    |    |                                   |
@@ -42,6 +41,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 | A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usenode.net                      | 1TB | X    | X  |                                   |
 | A1                | https://onedrive.gdrive.vip/                     | onedrive5tb.com                  | 5TB | O    | X  |                                   |
+| A1                | ~~https://azzzzzz.lx.workers.dev~~                    | moe.bartonclough.co.uk           | 1TB | X    | X  |                                   |
 | E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                                   |
 
 ```X``` 的意思是我看到```Throttle.htm```。大概率SP已经翻车
