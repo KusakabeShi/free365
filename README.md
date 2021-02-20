@@ -35,7 +35,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
 | A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | X    |    |                                   |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    |    |                                   |
-| A1                | http://office.zx.al                                   | my365.ws  splogs.onmicrosoft.com | X   | O    |    |                                   |
+| A1                | http://office.zx.al                                   | my365.ws  splogs.onmicrosoft.com | 5TB | O    |    |                                   |
 | A1                | https://od.wasonliu.workers.dev/                      | f.odpan.cn                       | 5TB | X    |    |                                   |
 | A1                | https://zcnp.azurewebsites.net                        | niup.onmicrosoft.com             | X   | O    | X  |                                   |
 | A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
