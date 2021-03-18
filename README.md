@@ -56,4 +56,4 @@ AZ需要手机号才能测试，留空的表示不知道。
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
 | Teams Free        | https://2gfre.kskb.eu.org/                            | 2gfre.mcsoft.org                 | 2GB | X    | X  |                                   |
-| No Licence        | https://malahu.n5.myws.ca/                            | malahu.tk                        | 5TB | X    | X  |                                   |
+| No Licence        | https://malahu.n5.myws.ca/                            | malahu.tk                        | 0B  | X    | X  |                                   |
