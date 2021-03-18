@@ -41,6 +41,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 | A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
 | A1                | https://onedrive.gdrive.vip/                          | onedrive5tb.com                  | 5TB | O    | X  |                                   |
 | A1                | https://ceo.qiantigers.workers.dev/                   | ceo.co.ax                        | 5TB | X    | X  | SMS authentication required       |
+| Teams Exploratory | https://od.malahu.tk  https://malahu.n5.myws.ca/      | malahu.tk                        | 5TB | X    | X  |                                   |
 | A1                | ~~https://get.porta1.net/~~                           | usenode.net                      | 1TB | X    | X  |                                   |
 | A1                | ~~https://a1.lx.workers.dev~~                         | 2002000.xyz                      | 5TB | X    | X  |                                   |
 | A1                | ~~https://od.kbbldh.workers.dev~~                     | lbbldh.tk                        | 5TB | X    |    |                                   |
@@ -50,3 +51,9 @@ AZ需要手机号才能测试，留空的表示不知道。
 
 ```X``` 的意思是我看到```Throttle.htm```。大概率SP已经翻车
 
+玩票性質，沒用
+===
+
+| Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
+|-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
+| Teams Free        | https://2gfre.kskb.eu.org/                            | 2gfre.mcsoft.org                 | 2GB | X    | X  |                                   |
