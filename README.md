@@ -24,10 +24,16 @@ AZ需要手机号才能测试，留空的表示不知道。
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|
 | A1+A1P    | http://24mail.chacuo.net/                             | stu.mao.office.gy                | 1**GB** |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
 | A1P       | https://od.obagg.com/                                 | ashadevipolytechnic.in           | 1TB |O   |                                                 |
-| A1        | http://www.yopmail.com/en/                            | gpsurendranagar.org              | 1TB |X   |                                                 |
 | A1        | https://xkx.me/                                       | 5tb.in                           | 5TB |X   |                                                 |
-| A1        | ~~https://mail365.xyz/~~                              | mail365.xyz                      | 5TB |X   |                                                 |
-| A1+A1P    | ~~http://www.yopmail.com/en/~~                        | ncov.office.gy                   | 5TB | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
+| A1        | http://www.yopmail.com                                | gpsurendranagar.org              | 1TB |X   |                                                 |
+| A1        | http://www.yopmail.com                                | itecelp.com                      | X   |O   |                                                 |
+| A1        | http://www.yopmail.com                                | midwestultrasound.com            | 1TB |X   |                                                 |
+| A1        | http://www.yopmail.com                                | familyrow.com                    | 1TB |X   |                                                 |
+| A1        | http://www.yopmail.com                                | houstondebate.com                | 1TB |X   |                                                 |
+| A1        | http://www.yopmail.com                                | vikingdublin.com                 | 5TB |X   |                                                 |
+| A1        | http://www.yopmail.com                                | ropcourses.com                   | 2TB |X   |                                                 |
+| A1        | ~~https://mail365.xyz~~                               | mail365.xyz                      | 5TB |X   |                                                 |
+| A1+A1P    | ~~http://www.yopmail.com~~                            | ncov.office.gy                   | 5TB | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
 
 
 自助平台，可直接取得帐密
@@ -51,6 +57,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 | E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                                   |
 
 ```X``` 的意思是我看到```Throttle.htm```。大概率SP已经翻车
+
 
 玩票性质，没用
 ===
