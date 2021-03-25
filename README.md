@@ -44,17 +44,17 @@ AZ需要手机号才能测试，留空的表示不知道。
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | X    |    |                                   |
-| A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    |    |                                   |
-| A1                | http://office.zx.al                                   | my365.ws  splogs.onmicrosoft.com | 5TB | O    |    |                                   |
-| A1                | https://od.wasonliu.workers.dev/                      | f.odpan.cn                       | 5TB | X    |    |                                   |
+| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | X    | X  |                                   |
+| A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
+| A1                | http://office.zx.al                                   | my365.ws  splogs.onmicrosoft.com | 5TB | O    | X  |                                   |
+| A1                | https://od.wasonliu.workers.dev/                      | f.odpan.cn                       | 5TB | X    | X  |                                   |
 | A1                | https://zcnp.azurewebsites.net                        | niup.onmicrosoft.com             | X   | O    | X  |                                   |
 | A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
 | A1                | https://onedrive.gdrive.vip/                          | onedrive5tb.com                  | 5TB | O    | X  |                                   |
 | A1                | https://ceo.qiantigers.workers.dev/                   | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | ~~https://get.porta1.net/~~                           | usenode.net                      | 1TB | X    | X  |                                   |
 | A1                | ~~https://a1.lx.workers.dev~~                         | 2002000.xyz                      | 5TB | X    | X  |                                   |
-| A1                | ~~https://od.kbbldh.workers.dev~~                     | lbbldh.tk                        | 5TB | X    |    |                                   |
+| A1                | ~~https://od.kbbldh.workers.dev~~                     | lbbldh.tk                        | 5TB | X    | X  |                                   |
 | A1                | ~~https://25t.zxd.workers.dev/~~                      |                                  | 5TB | X    | X  |                                   |
 | A1                | ~~https://azzzzzz.lx.workers.dev~~                    | moe.bartonclough.co.uk           | 1TB | X    | X  |                                   |
 | E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                                   |
