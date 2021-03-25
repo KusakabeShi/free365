@@ -24,6 +24,9 @@ AZ需要手机号才能测试，留空的表示不知道。
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|
 | A1+A1P    | http://24mail.chacuo.net/                             | stu.mao.office.gy                | 1**GB** |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
 | A1P       | https://od.obagg.com/                                 | ashadevipolytechnic.in           | 1TB |O   |                                                 |
+| A1        | https://od.obagg.com/                                 | chancellorhs.com                 | 1TB |X   | sms activation required                         |
+| A1        | https://od.obagg.com/                                 | iitel.org                        | 1TB |X   |                                                 |
+| A1        | https://od.obagg.com/                                 | nursingcne.co.in                 | 2TB |X   |                                                 |
 | A1        | https://xkx.me/                                       | 5tb.in                           | 5TB |X   |                                                 |
 | A1        | http://www.yopmail.com                                | gpsurendranagar.org              | 1TB |X   |                                                 |
 | A1        | http://www.yopmail.com                                | itecelp.com                      | X   |O   |                                                 |
@@ -48,7 +51,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 | A1                | https://zcnp.azurewebsites.net                        | niup.onmicrosoft.com             | X   | O    | X  |                                   |
 | A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
 | A1                | https://onedrive.gdrive.vip/                          | onedrive5tb.com                  | 5TB | O    | X  |                                   |
-| A1                | https://ceo.qiantigers.workers.dev/                   | ceo.co.ax                        | 5TB | X    | X  | SMS authentication required       |
+| A1                | https://ceo.qiantigers.workers.dev/                   | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | ~~https://get.porta1.net/~~                           | usenode.net                      | 1TB | X    | X  |                                   |
 | A1                | ~~https://a1.lx.workers.dev~~                         | 2002000.xyz                      | 5TB | X    | X  |                                   |
 | A1                | ~~https://od.kbbldh.workers.dev~~                     | lbbldh.tk                        | 5TB | X    |    |                                   |
