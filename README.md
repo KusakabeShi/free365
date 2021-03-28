@@ -22,12 +22,12 @@ AZ需要手机号才能测试，留空的表示不知道。
 此分类全部没有开通email
 | Licence   | URL                                                   | Domain                           | OD  | AZ | Comment                                         |
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|
-| A1+A1P    | http://24mail.chacuo.net/                             | stu.mao.office.gy                | 1**GB** |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
-| A1P       | https://od.obagg.com/                                 | ashadevipolytechnic.in           | 1TB |O   |                                                 |
-| A1        | https://od.obagg.com/                                 | chancellorhs.com                 | 1TB |X   | sms activation required                         |
-| A1        | https://od.obagg.com/                                 | iitel.org                        | 1TB |X   |                                                 |
-| A1        | https://od.obagg.com/                                 | nursingcne.co.in                 | 2TB |X   |                                                 |
-| A1        | https://xkx.me/                                       | 5tb.in                           | 5TB |X   |                                                 |
+| A1+A1P    | http://24mail.chacuo.net                              | stu.mao.office.gy                | 1**GB** |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
+| A1P       | https://od.obagg.com                                  | ashadevipolytechnic.in           | 1TB |O   |                                                 |
+| A1        | https://od.obagg.com                                  | chancellorhs.com                 | 1TB |X   | sms activation required                         |
+| A1        | https://od.obagg.com                                  | iitel.org                        | 1TB |X   |                                                 |
+| A1        | https://od.obagg.com                                  | nursingcne.co.in                 | 2TB |X   |                                                 |
+| A1        | https://xkx.me                                        | 5tb.in                           | 5TB |X   |                                                 |
 | A1        | http://www.yopmail.com                                | gpsurendranagar.org              | 1TB |X   |                                                 |
 | A1        | http://www.yopmail.com                                | itecelp.com                      | X   |O   |                                                 |
 | A1        | http://www.yopmail.com                                | midwestultrasound.com            | 1TB |X   |                                                 |
@@ -47,15 +47,15 @@ AZ需要手机号才能测试，留空的表示不知道。
 | A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | X    | X  |                                   |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
 | A1                | http://office.zx.al                                   | my365.ws  splogs.onmicrosoft.com | 5TB | O    | X  |                                   |
-| A1                | https://od.wasonliu.workers.dev/                      | f.odpan.cn                       | 5TB | X    | X  |                                   |
-| A1                | https://zcnp.azurewebsites.net                        | niup.onmicrosoft.com             | X   | O    | X  |                                   |
-| A1                | https://zcmail.azurewebsites.net                      | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
-| A1                | https://onedrive.gdrive.vip/                          | onedrive5tb.com                  | 5TB | O    | X  |                                   |
-| A1                | https://ceo.qiantigers.workers.dev/                   | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
-| A1                | ~~https://get.porta1.net/~~                           | usenode.net                      | 1TB | X    | X  |                                   |
+| A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | 5TB | O    | X  |                                   |
+| A1                | https://ceo.qiantigers.workers.dev                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
+| A1                | ~~https://od.wasonliu.workers.dev~~                   | f.odpan.cn                       | 5TB | X    | X  |                                   |
+| A1                | ~~https://zcnp.azurewebsites.net~~                    | niup.onmicrosoft.com             | X   | O    | X  |                                   |
+| A1                | ~~https://zcmail.azurewebsites.net~~                  | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
+| A1                | ~~https://get.porta1.net~~                            | usenode.net                      | 1TB | X    | X  |                                   |
 | A1                | ~~https://a1.lx.workers.dev~~                         | 2002000.xyz                      | 5TB | X    | X  |                                   |
 | A1                | ~~https://od.kbbldh.workers.dev~~                     | lbbldh.tk                        | 5TB | X    | X  |                                   |
-| A1                | ~~https://25t.zxd.workers.dev/~~                      |                                  | 5TB | X    | X  |                                   |
+| A1                | ~~https://25t.zxd.workers.dev~~                       |                                  | 5TB | X    | X  |                                   |
 | A1                | ~~https://azzzzzz.lx.workers.dev~~                    | moe.bartonclough.co.uk           | 1TB | X    | X  |                                   |
 | E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                                   |
 
@@ -67,8 +67,8 @@ AZ需要手机号才能测试，留空的表示不知道。
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| Teams Free        | https://2gfre.kskb.eu.org/                            | 2gfre.mcsoft.org                 | 2GB | X    | X  | [Detail](https://www.kskb.eu.org/2021/02/teams.html)      |
-| No Licence        | https://malahu.n5.myws.ca/                            | malahu.tk                        | 0B  | X    | X  |                                   |
+| Teams Free        | https://2gfre.kskb.eu.org                             | 2gfre.mcsoft.org                 | 2GB | X    | X  | [Detail](https://www.kskb.eu.org/2021/02/teams.html)      |
+| No Licence        | https://malahu.n5.myws.ca                             | malahu.tk                        | 0B  | X    | X  |                                   |
 
 其他渠道，大佬们提供，我没测试过
 ===
