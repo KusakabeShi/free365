@@ -35,6 +35,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 | A1        | http://www.yopmail.com                                | houstondebate.com                | 1TB |X   |                                                 |
 | A1        | http://www.yopmail.com                                | vikingdublin.com                 | 5TB |X   |                                                 |
 | A1        | http://www.yopmail.com                                | ropcourses.com                   | 2TB |X   |                                                 |
+| A1        | http://mail.0du.win/?mailhost=athena525.org           | athena525.org                    | 1TB |X   |                                                 |
 | A1        | ~~https://mail365.xyz~~                               | mail365.xyz                      | 5TB |X   |                                                 |
 | A1+A1P    | ~~http://www.yopmail.com~~                            | ncov.office.gy                   | 5TB | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
 
