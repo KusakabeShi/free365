@@ -2,11 +2,15 @@
 
 我搜集到免费发放office365子号的网站。
 
+不知道这是什么的可以看下这篇我写的科普: https://www.kskb.eu.org/2021/01/office-365_30.html
+
 **注意:此处取得之所有帐号，皆违反微软ToS。微软有权随时停用，切勿存留重要资料于其中**
 
 **Noitce: All accounts here are violate Microsoft's Tos, you may get banned at anytime.**
 
 如果有人有知道列表中没有的，或是列表中的失效了，或是有人帮我测试了列表中的空白栏位，pull request大欢迎，issue也可以
+
+大佬们的贡献纪录: https://github.com/KusakabeSi/free365/commits/main
 
 如果能有表格中的测试(Onedrive容量/是否开通Email解析/能否通过AZ stu)就更赞了!
 
