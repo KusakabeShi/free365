@@ -27,6 +27,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 | Licence   | URL                                                   | Domain                           | OD  | AZ | Comment                                         |
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|
 | A1+A1P    | http://24mail.chacuo.net                              | stu.mao.office.gy                | 1**GB** |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
+| A1+A1P    | http://www.yopmail.com                                | awzg.office.gy<br>awzg.sch.lv    | 5TB |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```!爱我中国``` to get A1P           |
 | A1P       | https://od.obagg.com                                  | ashadevipolytechnic.in           | 1TB |O   |                                                 |
 | A1        | https://od.obagg.com                                  | chancellorhs.com                 | 1TB |X   | sms activation required                         |
 | A1        | https://od.obagg.com                                  | iitel.org                        | 1TB |X   |                                                 |
@@ -39,6 +40,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 | A1        | http://www.yopmail.com                                | houstondebate.com                | 1TB |X   |                                                 |
 | A1        | http://www.yopmail.com                                | vikingdublin.com                 | 5TB |X   |                                                 |
 | A1        | http://www.yopmail.com                                | ropcourses.com                   | 2TB |X   |                                                 |
+| A1        | http://www.yopmail.com                                | zhongguo.office.gy<br>aiwozhongguo.office.gy | 5TB |X   | sms activation required             |
 | A1        | http://mail.0du.win                                   | athena525.org                    | 1TB |X   |                                                 |
 | A1        | http://mail.0du.win                                   | cninecollege.com                 | 1TB |X   |                                                 |
 | A1        | http://mail.0du.win                                   | sinocanacademy.com               | 1TB |X   |                                                 |
