@@ -45,7 +45,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 | A1        | http://mail.0du.win                                   | cninecollege.com                 | 1TB |X   |                                                 |
 | A1        | http://mail.0du.win                                   | sinocanacademy.com               | 1TB |X   |                                                 |
 | A1        | http://mail.0du.win                                   | mullinsmarion.org                | 1TB |X   |                                                 |
-| A1        | http://our.pp.ua                                      | our.pp.ua                        | 1TB |X   |                                                 |
+| A1        | http://our.pp.ua                                      | our.pp.ua                        | 5TB |X   |                                                 |
 | A1        | ~~https://mail365.xyz~~                               | mail365.xyz                      | 5TB |X   |                                                 |
 | A1+A1P    | ~~http://www.yopmail.com~~                            | ncov.office.gy                   | 5TB | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
 
