@@ -28,7 +28,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|----|
 | A1+A1P    | http://24mail.chacuo.net                              | stu.mao.office.gy                | 1**GB** |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
 | A1+A1P    | http://www.yopmail.com                                | awzg.office.gy<br>awzg.sch.lv    | 5TB |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```!爱我中国``` to get A1P           |
-| A1P       | https://od.obagg.com                                  | ashadevipolytechnic.in           | 1TB |O   |                                                 |    |
+| A1P       | https://od.obagg.com                                  | crpolytechnic.in                 | X   |O   |                                                 |    |
 | A1        | https://od.obagg.com                                  | chancellorhs.com                 | 1TB |X   | sms activation required                         |    |
 | A1        | https://od.obagg.com                                  | iitel.org                        | 1TB |X   |                                                 |    |
 | A1        | https://od.obagg.com                                  | nursingcne.co.in                 | 2TB |X   |                                                 |    |
@@ -61,6 +61,7 @@ AZ需要手机号才能测试，留空的表示不知道。
 | A1                | https://ceo.qiantigers.workers.dev                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | X   | O    | X  |                                   |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
+| A1                | https://free.zjuczs.workers.dev                       | free.stulive.com                 | 5TB | X    | X  |                                   |
 | A1P               | ~~https://www.apioffice.workers.dev~~                 | apioffice.net                    | 5TB | X    | X  |                                   |
 | A1                | ~~https://od.wasonliu.workers.dev~~                   | f.odpan.cn                       | 5TB | X    | X  |                                   |
 | A1                | ~~https://zcnp.azurewebsites.net~~                    | niup.onmicrosoft.com             | X   | O    | X  |                                   |
