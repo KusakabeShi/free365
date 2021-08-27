@@ -47,10 +47,10 @@
 | A1        | http://www.yopmail.com                                | ropcourses.com                   | 2TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | zhongguo.office.gy<br>aiwozhongguo.office.gy | 5TB |X   | sms activation required             |    |
 | A1        | http://our.pp.ua                                      | our.pp.ua                        | 5TB |X   |                                                 |    |
+| A1        | http://mail.0du.win                                   | mullinsmarion.org                | 1TB |X   |                                                 |    |
 | A1        | http://mail.0du.win                                   | ~~athena525.org~~                | 1TB |X   |                                                 |    |
 | A1        | http://mail.0du.win                                   | ~~cninecollege.com~~             | 1TB |X   |                                                 |    |
 | A1        | http://mail.0du.win                                   | ~~sinocanacademy.com~~           | 1TB |X   |                                                 |    |
-| A1        | http://mail.0du.win                                   | ~~mullinsmarion.org~~            | 1TB |X   |                                                 |    |
 | A1        | ~~https://mail365.xyz~~                               | mail365.xyz                      | 5TB |X   |                                                 |    |
 | A1+A1P    | ~~http://www.yopmail.com~~                            | ncov.office.gy                   | 5TB | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
 
