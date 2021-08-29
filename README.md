@@ -31,8 +31,6 @@
 此分类全部没有开通email
 | Licence   | URL                                                   | Domain                           | OD  | AZ | Comment                                         |API |
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|----|
-| A1+A1P    | ~~http://24mail.chacuo.net~~                          | stu.mao.office.gy                | 1**GB** |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
-| A1+A1P    | ~~http://www.yopmail.com~~                            | awzg.office.gy<br>awzg.sch.lv    | 5TB |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```!爱我中国``` to get A1P           |
 | A1P       | https://od.obagg.com                                  | crpolytechnic.in                 | X   |O   |                                                 |    |
 | A1        | https://od.obagg.com                                  | chancellorhs.com                 | 1TB |X   | sms activation required                         |    |
 | A1        | https://od.obagg.com                                  | iitel.org                        | 1TB |X   |                                                 |    |
@@ -49,11 +47,12 @@
 | A1        | http://our.pp.ua                                      | our.pp.ua                        | 5TB |X   |                                                 |    |
 | A1        | http://mail.0du.win                                   | mullinsmarion.org                | 1TB |X   |                                                 |    |
 | A1        | ~~http://mail.0du.win~~                               | athena525.org                    | 1TB |X   |                                                 |    |
+| A1        | ~~https://mail365.xyz~~                               | mail365.xyz                      | 5TB |X   |                                                 |    |
+| A1+A1P    | ~~http://24mail.chacuo.net~~                          | stu.mao.office.gy                | 1**GB** |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
+| A1+A1P    | ~~http://www.yopmail.com~~                            | awzg.office.gy<br>awzg.sch.lv    | 5TB |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```!爱我中国``` to get A1P           |
+| A1+A1P    | ~~http://www.yopmail.com~~                            | ncov.office.gy                   | 5TB | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
 | A1        | ~~http://mail.0du.win~~                               | ~~cninecollege.com~~             | 1TB |X   |                                                 |    |
 | A1        | ~~http://mail.0du.win~~                               | ~~sinocanacademy.com~~           | 1TB |X   |                                                 |    |
-| A1        | ~~https://mail365.xyz~~                               | mail365.xyz                      | 5TB |X   |                                                 |    |
-| A1+A1P    | ~~http://www.yopmail.com~~                            | ncov.office.gy                   | 5TB | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
-
 
 自助平台，可直接取得帐密
 ===
