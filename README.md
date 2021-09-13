@@ -61,12 +61,13 @@
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
 | A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | X    | X  |                                   |
 | A1                | https://free-a1.a1od.workers.dev                      | a1.free365.ltd                   | 5TB | X    | X  |                                   |
-| A1                | http://office.zx.al                                   | my365.ws<br>splogs.onmicrosoft.com | 5TB | O    | X  |                                   |
+| A1                | http://office.zx.al                                 | my365.ws<br>splogs.onmicrosoft.com | 5TB | O    | X  |                                   |
 | A1                | https://ceo.qiantigers.workers.dev                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429           |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
 | A1                | https://free.zjuczs.workers.dev                       | free.stulive.com                 | 5TB | X    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |                                   |
+| A1                | ~~https://a1.typecho.blog/~~                          | typecho.blog<br>salemcs.org      | 5TB | X    | X  |                                   |
 | A1P               | ~~https://www.apioffice.workers.dev~~                 | apioffice.net                    | 5TB | X    | X  |                                   |
 | A1                | ~~https://od.wasonliu.workers.dev~~                   | f.odpan.cn                       | 5TB | X    | X  |                                   |
 | A1                | ~~https://zcnp.azurewebsites.net~~                    | niup.onmicrosoft.com             | X   | O    | X  |                                   |
