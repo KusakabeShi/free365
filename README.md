@@ -67,6 +67,9 @@
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
 | A1                | https://free.zjuczs.workers.dev                       | free.stulive.com                 | 5TB | X    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |                                   |
+| A1                | https://freems.1ove.club/ceo/                         | ceo.1ove.ml                      | 5T  | X    | X  | sms activation required           |
+| A1                | https://freems.1ove.club/a1/                          | a.1ove.ml                        | 5T  | X    | X  |                                   |
+| Teams Exp         | https://freems.1ove.club/exp/                         | exp.1ove.ml                      | 5T  | X    | X  |                                   |
 | A1                | ~~https://a1.typecho.blog/~~                          | typecho.blog<br>salemcs.org      | 5TB | X    | X  |                                   |
 | A1P               | ~~https://www.apioffice.workers.dev~~                 | apioffice.net                    | 5TB | X    | X  |                                   |
 | A1                | ~~https://od.wasonliu.workers.dev~~                   | f.odpan.cn                       | 5TB | X    | X  |                                   |
