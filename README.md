@@ -32,9 +32,6 @@
 | Licence   | URL                                                   | Domain                           | OD  | AZ | Comment                                         |API |
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|----|
 | A1P       | https://od.obagg.com                                  | crpolytechnic.in                 | X   |O   |                                                 |    |
-| A1        | https://od.obagg.com                                  | chancellorhs.com                 | 1TB |X   | sms activation required                         |    |
-| A1        | https://od.obagg.com                                  | iitel.org                        | 1TB |X   |                                                 |    |
-| A1        | https://od.obagg.com                                  | nursingcne.co.in                 | 2TB |X   |                                                 |    |
 | A1        | https://xkx.me                                        | 5tb.in                           | 5TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | gpsurendranagar.org              | 1TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | itecelp.com                      | X   |O   |                                                 |    |
@@ -45,6 +42,9 @@
 | A1        | http://www.yopmail.com                                | zhongguo.office.gy<br>aiwozhongguo.office.gy | 5TB |X   | sms activation required             |    |
 | A1        | http://our.pp.ua                                      | our.pp.ua                        | 5TB |X   |                                                 |    |
 | A1        | http://mail.0du.win                                   | mullinsmarion.org                | 1TB |X   |                                                 |    |
+| A1        | ~~https://od.obagg.com~~                              | chancellorhs.com                 | 1TB |X   | sms activation required                         |    |
+| A1        | ~~https://od.obagg.com~~                              | iitel.org                        | 1TB |X   |                                                 |    |
+| A1        | ~~https://od.obagg.com~~                              | nursingcne.co.in                 | 2TB |X   |                                                 |    |
 | A1        | ~~http://www.yopmail.com~~                            | ropcourses.com                   | 2TB |X   | IT关闭                                          |    |
 | A1        | ~~http://mail.0du.win~~                               | athena525.org                    | 1TB |X   |                                                 |    |
 | A1        | ~~https://mail365.xyz~~                               | mail365.xyz                      | 5TB |X   |                                                 |    |
@@ -59,7 +59,7 @@
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | X    | X  |                                   |
+| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | X   | X    | X  |                                   |
 | A1                | http://office.zx.al                                 | my365.ws<br>splogs.onmicrosoft.com | 5TB | O    | X  |                                   |
 | A1                | https://ceo.qiantigers.workers.dev                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429           |
