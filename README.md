@@ -38,7 +38,7 @@
 | A1        | https://xkx.me                                        | 5tb.in                           | 5TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | gpsurendranagar.org              | 1TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | itecelp.com                      | X   |O   |                                                 |    |
-| A1        | http://www.yopmail.com                                | midwestultrasound.com            | 1TB |X   |                                                 |    |
+| A1        | http://www.yopmail.com                                | midwestultrasound.com            | 1TB |X   | sms activation required                         |    |
 | A1        | http://www.yopmail.com                                | familyrow.com                    | 1TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | houstondebate.com                | 1TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | vikingdublin.com                 | 5TB |X   |                                                 |X   |
