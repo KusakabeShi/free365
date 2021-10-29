@@ -34,7 +34,7 @@
 | A1P       | https://od.obagg.com                                  | crpolytechnic.in                 | X   |O   |                                                 |    |
 | A1        | https://od.obagg.com                                  | chancellorhs.com                 | 1TB |X   | sms activation required                         |    |
 | A1        | https://od.obagg.com                                  | iitel.org                        | 1TB |X   |                                                 |    |
-| A1        | https://od.obagg.com                                  | nursingcne.co.in                 | 2TB |X   |                                                 |    |
+| A1        | https://od.obagg.com                                  | nursingcne.co.in                 | 2TB |X   | sms activation required                         |    |
 | A1        | https://xkx.me                                        | 5tb.in                           | 5TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | gpsurendranagar.org              | 1TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | itecelp.com                      | X   |O   |                                                 |    |
