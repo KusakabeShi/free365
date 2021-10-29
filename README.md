@@ -64,7 +64,7 @@
 | A1                | https://ceo.qiantigers.workers.dev                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429           |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
-| A1                | https://free.zjuczs.workers.dev                       | free.stulive.com                 | 5TB | X    | X  |                                   |
+| A1                | https://sky.kits.workers.dev/                         | free.stulive.com                 | 5TB | X    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |                                   |
 | A1                | https://freems.1ove.club/ceo/                         | ceo.1ove.ml                      | 5T  | X    | X  | sms activation required           |
 | A1                | https://freems.1ove.club/a1/                          | a.1ove.ml                        | 5T  | X    | X  |                                   |
