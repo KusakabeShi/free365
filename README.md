@@ -34,11 +34,11 @@
 | A1P       | https://od.obagg.com                                  | crpolytechnic.in                 | X   |O   |                                                 |    |
 | A1        | https://od.obagg.com                                  | chancellorhs.com                 | 1TB |X   | sms activation required                         |    |
 | A1        | https://od.obagg.com                                  | iitel.org                        | 1TB |X   |                                                 |    |
-| A1        | https://od.obagg.com                                  | nursingcne.co.in                 | 2TB |X   |                                                 |    |
+| A1        | https://od.obagg.com                                  | nursingcne.co.in                 | 2TB |X   | sms activation required                         |    |
 | A1        | https://xkx.me                                        | 5tb.in                           | 5TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | gpsurendranagar.org              | 1TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | itecelp.com                      | X   |O   |                                                 |    |
-| A1        | http://www.yopmail.com                                | midwestultrasound.com            | 1TB |X   |                                                 |    |
+| A1        | http://www.yopmail.com                                | midwestultrasound.com            | 1TB |X   | sms activation required                         |    |
 | A1        | http://www.yopmail.com                                | familyrow.com                    | 1TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | houstondebate.com                | 1TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | vikingdublin.com                 | 5TB |X   |                                                 |X   |
@@ -59,12 +59,12 @@
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | 5TB | X    | X  |                                   |
+| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | X   | X    | X  |                                   |
 | A1                | http://office.zx.al                                 | my365.ws<br>splogs.onmicrosoft.com | 5TB | O    | X  |                                   |
 | A1                | https://ceo.qiantigers.workers.dev                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429           |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
-| A1                | https://free.zjuczs.workers.dev                       | free.stulive.com                 | 5TB | X    | X  |                                   |
+| A1                | https://sky.kits.workers.dev/                         | free.stulive.com                 | 5TB | X    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |                                   |
 | A1                | https://freems.1ove.club/ceo/                         | ceo.1ove.ml                      | 5T  | X    | X  | sms activation required           |
 | A1                | https://freems.1ove.club/a1/                          | a.1ove.ml                        | 5T  | X    | X  |                                   |
