@@ -64,11 +64,10 @@
 | A1                | https://ceo.qiantigers.workers.dev                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429           |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
-| A1                | https://sky.kits.workers.dev/                         | free.stulive.com                 | 5TB | X    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |                                   |
 | A1                | https://freems.1ove.club/ceo/                         | ceo.1ove.ml                      | 5T  | X    | X  | sms activation required           |
-| A1                | https://freems.1ove.club/a1/                          | a.1ove.ml                        | 5T  | X    | X  |                                   |
 | Teams Exp         | https://freems.1ove.club/exp/                         | exp.1ove.ml                      | 5T  | X    | X  |                                   |
+| A1                | ~~https://sky.kits.workers.dev/~~                     | free.stulive.com                 | X   | X    | X  |                                   |
 | A1                | ~~https://free-a1.a1od.workers.dev~~                  | a1.free365.ltd                   | X   | X    | X  |                                   |
 | A1                | ~~https://a1.typecho.blog/~~                          | typecho.blog<br>salemcs.org      | 5TB | X    | X  |                                   |
 | A1P               | ~~https://www.apioffice.workers.dev~~                 | apioffice.net                    | 5TB | X    | X  |                                   |
@@ -80,6 +79,7 @@
 | A1                | ~~https://od.kbbldh.workers.dev~~                     | lbbldh.tk                        | 5TB | X    | X  |                                   |
 | A1                | ~~https://25t.zxd.workers.dev~~                       |                                  | 5TB | X    | X  |                                   |
 | A1                | ~~https://azzzzzz.lx.workers.dev~~                    | moe.bartonclough.co.uk           | 1TB | X    | X  |                                   |
+| A1                | ~~https://freems.1ove.club/a1/~~                      | ~~a.1ove.ml~~                    | 5TB | X    | X  |                                   |
 | Teams Exp         | ~~https://azure.starter.workers.dev~~                 | ~~yun.wwwpensbyhighschool.com~~  | 1TB | X    | O  |                                   |
 | E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                                   |
 
