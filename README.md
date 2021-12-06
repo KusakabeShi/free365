@@ -59,13 +59,13 @@
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | X   | X    | X  |                                   |
 | A1                | https://ceo.qiantigers.workers.dev                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429           |
+| Teams Exp         | https://freems.1ove.club/exp/                         | exp.1ove.ml                      | 5T  | X    | X  |                                   |
+| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | X   | X    | X  |                                   |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |                                   |
 | A1                | https://freems.1ove.club/ceo/                         | ceo.1ove.ml                      | X   | X    | X  | sms activation required           |
-| Teams Exp         | https://freems.1ove.club/exp/                         | exp.1ove.ml                      | 5T  | X    | X  |                                   |
 | A1                | ~~http://office.zx.al~~                               | my365.ws<br>splogs.onmicrosoft.com | 5TB | O    | X  |                                   |
 | A1                | ~~https://sky.kits.workers.dev/~~                     | free.stulive.com                 | X   | X    | X  |                                   |
 | A1                | ~~https://free-a1.a1od.workers.dev~~                  | a1.free365.ltd                   | X   | X    | X  |                                   |
