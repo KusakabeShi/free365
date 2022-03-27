@@ -31,10 +31,10 @@
 此分类全部没有开通email
 | Licence   | URL                                                   | Domain                           | OD  | AZ | Comment                                         |API |
 |-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|----|
-| A1P       | https://od.obagg.com                                  | crpolytechnic.in                 | X   |O   |                                                 |    |
-| A1        | https://od.obagg.com                                  | chancellorhs.com                 | 1TB |X   | sms activation required                         |    |
-| A1        | https://od.obagg.com                                  | iitel.org                        | 1TB |X   |                                                 |    |
-| A1        | https://od.obagg.com                                  | nursingcne.co.in                 | 2TB |X   | sms activation required                         |    |
+| A1P       | ~~https://od.obagg.com~~                                  | crpolytechnic.in                 | X   |O   |         网站                                     |    |挂了
+| A1        | ~~https://od.obagg.com~~                                | chancellorhs.com                 | 1TB |X   | sms activation required                          |    |
+| A1        | ~~https://od.obagg.com~~                                  | iitel.org                        | 1TB |X   |                                                  |    |
+| A1        | ~~https://od.obagg.com~~                                  | nursingcne.co.in                 | 2TB |X   | sms activation required                         |    |
 | A1        | https://xkx.me                                        | 5tb.in                           | 5TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | gpsurendranagar.org              | 1TB |X   |                                                 |    |
 | A1        | http://www.yopmail.com                                | itecelp.com                      | X   |O   |                                                 |    |
@@ -64,7 +64,7 @@
 | Teams Exp         | https://freems.1ove.club/exp/                         | exp.1ove.ml                      | 5T  | X    | X  |                                   |
 | A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | X   | X    | X  |                                   |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
-| A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |                                   |
+| A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |  need activation code                                 |
 | A1                | https://freems.1ove.club/ceo/                         | ceo.1ove.ml                      | X   | X    | X  | sms activation required           |
 | A1                | ~~http://office.zx.al~~                               | my365.ws<br>splogs.onmicrosoft.com | 5TB | O    | X  |                                   |
 | A1                | ~~https://sky.kits.workers.dev/~~                     | free.stulive.com                 | X   | X    | X  |                                   |
