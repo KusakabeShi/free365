@@ -42,7 +42,7 @@
 | A1        | ~~http://www.yopmail.com~~                                | familyrow.com                    | 1TB |X   |     邮件无法送达                                            |    |
 | A1        | ~~http://www.yopmail.com~~                                | houstondebate.com                | 1TB |X   |                           域名过期               |    |
 | A1        | http://www.yopmail.com                                | vikingdublin.com                 | 5TB |X   |                                                 |X   |
-| A1        | http://www.yopmail.com                                | zhongguo.office.gy<br>aiwozhongguo.office.gy | 5TB |X   | sms activation required             |    |
+| A1        | ~~http://www.yopmail.com~~                                | zhongguo.office.gy<br>aiwozhongguo.office.gy | 5TB |X   | 无教育资格            |    |
 | A1        | http://our.pp.ua                                      | our.pp.ua                        | X |X   |                                                 |    |
 | A1        | ~~http://mail.0du.win~~                                   | mullinsmarion.org                | 1TB |X   | 无教育资格                                               |    |
 | A1        | ~~http://www.yopmail.com~~                            | ropcourses.com                   | 2TB |X   | IT关闭                                          |    |
