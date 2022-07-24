@@ -36,7 +36,7 @@
 | A1        | ~~https://od.obagg.com~~                                  | iitel.org                        | 1TB |X   |                                                  |    |
 | A1        | ~~https://od.obagg.com~~                                  | nursingcne.co.in                 | 2TB |X   | sms activation required                         |    |
 | A1        | ~~https://xkx.me~~                                    | 5tb.in                           | 5TB |X   |   已不存在资格                                              |    |
-| A1        | http://www.yopmail.com                                | gpsurendranagar.org              | 1TB |X   |    需电话验证                                             |    |
+| A1        | ~~http://www.yopmail.com~~                                | gpsurendranagar.org              | 1TB |X   |    域名到期                   |    |
 | A1        | ~~http://www.yopmail.com~~                                | itecelp.com                      | X   |O   |     邮件无法送达到临时邮箱                                   |    |
 | A1        | http://www.yopmail.com                                | midwestultrasound.com            | 1TB |X   | sms activation required                         |    |
 | A1        | ~~http://www.yopmail.com~~                                | familyrow.com                    | 1TB |X   |     邮件无法送达                                            |    |
