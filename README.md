@@ -36,12 +36,12 @@
 | A1        | ~~https://od.obagg.com~~                                  | iitel.org                        | 1TB |X   |                                                  |    |
 | A1        | ~~https://od.obagg.com~~                                  | nursingcne.co.in                 | 2TB |X   | sms activation required                         |    |
 | A1        | ~~https://xkx.me~~                                    | 5tb.in                           | 5TB |X   |   已不存在资格                                              |    |
-| A1        | http://www.yopmail.com                                | gpsurendranagar.org              | 1TB |X   |    需电话验证                                             |    |
+| A1        | ~~http://www.yopmail.com~~                                | gpsurendranagar.org              | 1TB |X   |    域名到期                   |    |
 | A1        | ~~http://www.yopmail.com~~                                | itecelp.com                      | X   |O   |     邮件无法送达到临时邮箱                                   |    |
-| A1        | http://www.yopmail.com                                | midwestultrasound.com            | 1TB |X   | sms activation required                         |    |
+| A1        | ~~http://www.yopmail.com~~                                | midwestultrasound.com            | 1TB |X   | 无MX记录                         |    |
 | A1        | ~~http://www.yopmail.com~~                                | familyrow.com                    | 1TB |X   |     邮件无法送达                                            |    |
 | A1        | ~~http://www.yopmail.com~~                                | houstondebate.com                | 1TB |X   |                           域名过期               |    |
-| A1        | http://www.yopmail.com                                | vikingdublin.com                 | 5TB |X   |                                                 |X   |
+| A1        | ~~http://www.yopmail.com~~                                | vikingdublin.com                 | 5TB |X   |          域名到期                     |X   |
 | A1        | ~~http://www.yopmail.com~~                                | zhongguo.office.gy<br>aiwozhongguo.office.gy | 5TB |X   | 无教育资格            |    |
 | A1        | http://our.pp.ua                                      | our.pp.ua                        | X |X   |                                                 |    |
 | A1        | ~~http://mail.0du.win~~                                   | mullinsmarion.org                | 1TB |X   | 无教育资格                                               |    |
