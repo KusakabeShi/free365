@@ -96,9 +96,3 @@
 | A1(2022/03/25 End)| https://a1.shinenet.cn/free                           | fufcvco.onmicrosoft.com          | 5TB | X    | X  | [Detailed Information](https://www.shinenet.cn/archives/176.html)       |
 | No Licence        | ~~https://malahu.n5.myws.ca~~                         | malahu.tk                        | X   | X    | X  |                                   |
 
-其他渠道，大佬们提供，我没测试过
-===
-(主要是微信有点麻烦就没弄)。我感觉这类的群主说收就收，失效了也麻烦通知了
-| Licence           | Source                                                | Domain                           | OD  | Mail | AZ | Comment                           |
-|-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| A1                | 公众号 禾令奇 可以积分兑换/抽奖领A3,大概签到3天就能换到了  |                                  |     |      |    | see also [#5](/../../issues/5)    |
