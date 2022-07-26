@@ -59,6 +59,7 @@
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
+| A1                | https://office.zppcw.cn                               | vwb.me                          | 5TB | X  | X    |    不能创建 API  |
 | A1                | ~~https://ceo.qiantigers.workers.dev~~                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429           |
 | Teams Exp         | ~~https://freems.1ove.club/exp/~~                         | exp.1ove.ml                      | 5T  | X    | X  |    paid                |
