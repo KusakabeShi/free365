@@ -93,6 +93,6 @@
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
 | No Licence        | https://2gfre.kskb.eu.org                             | 2gfre.mcsoft.org                 | 2GB | X    | X  | [Detailed Information](https://www.kskb.eu.org/2021/02/teams.html)      |
 | No Licence        | https://21vapi.kskb.eu.org                            | 21vapi.mcsoft.org                | X   | X    | X  | [Detailed Information](https://www.kskb.eu.org/2021/04/21vianet-office365.html)      |
-| A1(2022/03/25 End)| https://a1.shinenet.cn/free                           | fufcvco.onmicrosoft.com          | 5TB | X    | X  | [Detailed Information](https://www.shinenet.cn/archives/176.html)       |
+| A1(2023/03/25 End)| https://a1.shinenet.cn/free                           | fufcvco.onmicrosoft.com          | 5TB | X    | X  | [Detailed Information](https://www.shinenet.cn/archives/176.html)       |
 | No Licence        | ~~https://malahu.n5.myws.ca~~                         | malahu.tk                        | X   | X    | X  |                                   |
 
