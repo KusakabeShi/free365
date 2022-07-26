@@ -61,7 +61,7 @@
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
 | A1                | https://ceo.qiantigers.workers.dev                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429           |
-| Teams Exp         | https://freems.1ove.club/exp/                         | exp.1ove.ml                      | 5T  | X    | X  |                                   |
+| Teams Exp         | ~~https://freems.1ove.club/exp/~~                         | exp.1ove.ml                      | 5T  | X    | X  |    paid                |
 | A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | X   | X    | X  |                                   |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |  need activation code             |
