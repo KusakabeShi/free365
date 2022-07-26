@@ -65,7 +65,7 @@
 | A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | X   | X    | X  |                                   |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |  need activation code             |
-| A1                | ~~https://freems.1ove.club/ceo/~~                     | ceo.1ove.ml                      | X   | X    | X  | not free anymore                  |
+| A1                | ~~https://freems.1ove.club/ceo/~~                     | ceo.1ove.ml                      | X   | X    | X  |                    |
 | A1                | ~~http://office.zx.al~~                               | my365.ws<br>splogs.onmicrosoft.com | 5TB | O    | X  |                                 |
 | A1                | ~~https://sky.kits.workers.dev/~~                     | free.stulive.com                 | X   | X    | X  |                                   |
 | A1                | ~~https://free-a1.a1od.workers.dev~~                  | a1.free365.ltd                   | X   | X    | X  |                                   |
