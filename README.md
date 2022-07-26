@@ -59,13 +59,13 @@
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| A1                | https://ceo.qiantigers.workers.dev                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
+| A1                | ~~https://ceo.qiantigers.workers.dev~~                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
 | A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429           |
-| Teams Exp         | https://freems.1ove.club/exp/                         | exp.1ove.ml                      | 5T  | X    | X  |                                   |
+| Teams Exp         | ~~https://freems.1ove.club/exp/~~                         | exp.1ove.ml                      | 5T  | X    | X  |    paid                |
 | A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | X   | X    | X  |                                   |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
 | A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |  need activation code             |
-| A1                | ~~https://freems.1ove.club/ceo/~~                     | ceo.1ove.ml                      | X   | X    | X  | not free anymore                  |
+| A1                | ~~https://freems.1ove.club/ceo/~~                     | ceo.1ove.ml                      | X   | X    | X  |                    |
 | A1                | ~~http://office.zx.al~~                               | my365.ws<br>splogs.onmicrosoft.com | 5TB | O    | X  |                                 |
 | A1                | ~~https://sky.kits.workers.dev/~~                     | free.stulive.com                 | X   | X    | X  |                                   |
 | A1                | ~~https://free-a1.a1od.workers.dev~~                  | a1.free365.ltd                   | X   | X    | X  |                                   |
@@ -93,6 +93,6 @@
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
 | No Licence        | https://2gfre.kskb.eu.org                             | 2gfre.mcsoft.org                 | 2GB | X    | X  | [Detailed Information](https://www.kskb.eu.org/2021/02/teams.html)      |
 | No Licence        | https://21vapi.kskb.eu.org                            | 21vapi.mcsoft.org                | X   | X    | X  | [Detailed Information](https://www.kskb.eu.org/2021/04/21vianet-office365.html)      |
-| A1(2022/03/25 End)| https://a1.shinenet.cn/free                           | fufcvco.onmicrosoft.com          | 5TB | X    | X  | [Detailed Information](https://www.shinenet.cn/archives/176.html)       |
+| A1(2023/03/25 End)| https://a1.shinenet.cn/free                           | fufcvco.onmicrosoft.com          | 5TB | X    | X  | [Detailed Information](https://www.shinenet.cn/archives/176.html)       |
 | No Licence        | ~~https://malahu.n5.myws.ca~~                         | malahu.tk                        | X   | X    | X  |                                   |
 
