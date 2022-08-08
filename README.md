@@ -14,7 +14,7 @@
 
 如果能有表格中的测试(Onedrive容量/是否开通Email解析/能否通过AZ stu)就更赞了!
 
-因為[近期微軟改動](https://xrenblog.com/article/000007.html) ，AZ許多域名雖有教育資格，但都只剩Azure for student starter了。
+因為[近期微軟改動](https://www.kskb.eu.org/2021/08/azure-for-students.html) ，AZ許多域名雖有教育資格，但都只剩Azure for student starter了。
 
 但是API探測不出來這個域名有AZ還是只剩AZ Starter，一律返回true。所以下表的AZ有可能是Azure for student starter，請務必注意
 
