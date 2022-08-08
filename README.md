@@ -29,60 +29,60 @@
 偷渡许可，须至[Office 365 Education](https://products.office.com/en-us/student?tab=students)自行偷渡。
 ===
 此分类全部没有开通email
-| Licence   | URL                                                   | Domain                           | OD  | AZ | Comment                                         |API |
-|-----------|-------------------------------------------------------|----------------------------------|-----|----|-------------------------------------------------|----|
-| A1P       | ~~https://od.obagg.com~~                                  | crpolytechnic.in                 | X   |O   |         网站                                     |    |挂了
-| A1        | ~~https://od.obagg.com~~                                | chancellorhs.com                 | 1TB |X   | sms activation required                          |    |
-| A1        | ~~https://od.obagg.com~~                                  | iitel.org                        | 1TB |X   |                                                  |    |
-| A1        | ~~https://od.obagg.com~~                                  | nursingcne.co.in                 | 2TB |X   | sms activation required                         |    |
-| A1        | ~~https://xkx.me~~                                    | 5tb.in                           | 5TB |X   |   已不存在资格                                              |    |
-| A1        | ~~http://www.yopmail.com~~                                | gpsurendranagar.org              | 1TB |X   |    域名到期                   |    |
-| A1        | ~~http://www.yopmail.com~~                                | itecelp.com                      | X   |O   |     邮件无法送达到临时邮箱                                   |    |
-| A1        | ~~http://www.yopmail.com~~                                | midwestultrasound.com            | 1TB |X   | 无MX记录                         |    |
-| A1        | ~~http://www.yopmail.com~~                                | familyrow.com                    | 1TB |X   |     邮件无法送达                                            |    |
-| A1        | ~~http://www.yopmail.com~~                                | houstondebate.com                | 1TB |X   |                           域名过期               |    |
-| A1        | ~~http://www.yopmail.com~~                                | vikingdublin.com                 | 5TB |X   |          域名到期                     |X   |
-| A1        | ~~http://www.yopmail.com~~                                | zhongguo.office.gy<br>aiwozhongguo.office.gy | 5TB |X   | 无教育资格            |    |
-| A1        | http://our.pp.ua                                      | our.pp.ua                        | X |X   |                                                 |    |
-| A1        | ~~http://mail.0du.win~~                                   | mullinsmarion.org                | 1TB |X   | 无教育资格                                               |    |
-| A1        | ~~http://www.yopmail.com~~                            | ropcourses.com                   | 2TB |X   | IT关闭                                          |    |
-| A1        | ~~http://mail.0du.win~~                               | athena525.org                    | 1TB |X   |                                                 |    |
-| A1        | ~~https://mail365.xyz~~                               | mail365.xyz                      | 5TB |X   |                                                 |    |
-| A1+A1P    | ~~http://24mail.chacuo.net~~                          | stu.mao.office.gy                | 1**GB** |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P           |
-| A1+A1P    | ~~http://www.yopmail.com~~                            | awzg.office.gy<br>awzg.sch.lv    | 5TB |X   | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```!爱我中国``` to get A1P           |
-| A1+A1P    | ~~http://www.yopmail.com~~                            | ncov.office.gy                   | 5TB | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P  |
-| A1        | ~~http://mail.0du.win~~                               | ~~cninecollege.com~~             | 1TB |X   |                                                 |    |
-| A1        | ~~http://mail.0du.win~~                               | ~~sinocanacademy.com~~           | 1TB |X   |                                                 |    |
+| Licence | URL                          | Domain                                       | OD      | AZ | Comment                                                                                                   | API |   |
+|---------|------------------------------|----------------------------------------------|---------|----|-----------------------------------------------------------------------------------------------------------|-----|---|
+| A1P     | ~~https://od.obagg.com~~     | crpolytechnic.in                             | X       | O  |                                                                                                           |     |   |
+| A1      | ~~https://od.obagg.com~~     | chancellorhs.com                             | 1TB     | X  | sms activation required                                                                                   |     |   |
+| A1      | ~~https://od.obagg.com~~     | iitel.org                                    | 1TB     | X  |                                                                                                           |     |   |
+| A1      | ~~https://od.obagg.com~~     | nursingcne.co.in                             | 2TB     | X  | sms activation required                                                                                   |     |   |
+| A1      | ~~https://xkx.me~~           | 5tb.in                                       | 5TB     | X  | eligibility dropped                                                                                       |     |   |
+| A1      | ~~http://www.yopmail.com~~   | gpsurendranagar.org                          | 1TB     | X  | domain expired                                                                                            |     |   |
+| A1      | ~~http://www.yopmail.com~~   | itecelp.com                                  | X       | O  | invalid MX record                                                                                         |     |   |
+| A1      | ~~http://www.yopmail.com~~   | midwestultrasound.com                        | 1TB     | X  | No MX record                                                                                              |     |   |
+| A1      | ~~http://www.yopmail.com~~   | familyrow.com                                | 1TB     | X  | invalid MX record                                                                                         |     |   |
+| A1      | ~~http://www.yopmail.com~~   | houstondebate.com                            | 1TB     | X  | domain expired                                                                                            |     |   |
+| A1      | ~~http://www.yopmail.com~~   | vikingdublin.com                             | 5TB     | X  | domain expired                                                                                            | X   |   |
+| A1      | ~~http://www.yopmail.com~~   | zhongguo.office.gy<br>aiwozhongguo.office.gy | 5TB     | X  | eligibility dropped                                                                                       |     |   |
+| A1      | http://our.pp.ua             | our.pp.ua                                    | X       | X  |                                                                                                           |     |   |
+| A1      | ~~http://mail.0du.win~~      | mullinsmarion.org                            | 1TB     | X  | eligibility dropped                                                                                       |     |   |
+| A1      | ~~http://www.yopmail.com~~   | ropcourses.com                               | 2TB     | X  | IT closed                                                                                                 |     |   |
+| A1      | ~~http://mail.0du.win~~      | athena525.org                                | 1TB     | X  |                                                                                                           |     |   |
+| A1      | ~~https://mail365.xyz~~      | mail365.xyz                                  | 5TB     | X  |                                                                                                           |     |   |
+| A1+A1P  | ~~http://24mail.chacuo.net~~ | stu.mao.office.gy                            | 1**GB** | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```Nuran.com``` to get A1P  |     |   |
+| A1+A1P  | ~~http://www.yopmail.com~~   | awzg.office.gy<br>awzg.sch.lv                | 5TB     | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```!爱我中国``` to get A1P      |     |   |
+| A1+A1P  | ~~http://www.yopmail.com~~   | ncov.office.gy                               | 5TB     | X  | [Join Group](https://account.activedirectory.windowsazure.com/r/#/joinGroups) ```中国加油！武汉加油！``` to get A1P |     |   |
+| A1      | ~~http://mail.0du.win~~      | ~~cninecollege.com~~                         | 1TB     | X  |                                                                                                           |     |   |
+| A1      | ~~http://mail.0du.win~~      | ~~sinocanacademy.com~~                       | 1TB     | X  |                                                                                                           |     |   |
 
 自助平台，可直接取得帐密
 ===
 
-| Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                           |
-|-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
-| A1                | https://office.zppcw.cn                               | vwb.me                          | 5TB | X  | X    |    不能创建 API  |
-| A1                | ~~https://ceo.qiantigers.workers.dev~~                    | ceo.co.ax                        | 5TB | X    | X  | sms activation required           |
-| A1                | https://onedrive.gdrive.vip                           | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429           |
-| Teams Exp         | ~~https://freems.1ove.club/exp/~~                         | exp.1ove.ml                      | 5T  | X    | X  |    paid                |
-| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | X   | X    | X  |                                   |
-| A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                                   |
-| A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  |  need activation code             |
-| A1                | ~~https://freems.1ove.club/ceo/~~                     | ceo.1ove.ml                      | X   | X    | X  |                    |
-| A1                | ~~http://office.zx.al~~                               | my365.ws<br>splogs.onmicrosoft.com | 5TB | O    | X  |                                 |
-| A1                | ~~https://sky.kits.workers.dev/~~                     | free.stulive.com                 | X   | X    | X  |                                   |
-| A1                | ~~https://free-a1.a1od.workers.dev~~                  | a1.free365.ltd                   | X   | X    | X  |                                   |
-| A1                | ~~https://a1.typecho.blog/~~                          | typecho.blog<br>salemcs.org      | 5TB | X    | X  |                                   |
-| A1P               | ~~https://www.apioffice.workers.dev~~                 | apioffice.net                    | 5TB | X    | X  |                                   |
-| A1                | ~~https://od.wasonliu.workers.dev~~                   | f.odpan.cn                       | 5TB | X    | X  |                                   |
-| A1                | ~~https://zcnp.azurewebsites.net~~                    | niup.onmicrosoft.com             | X   | O    | X  |                                   |
-| A1                | ~~https://zcmail.azurewebsites.net~~                  | mailc.onmicrosoft.com            | X   | O    | X  |                                   |
-| A1                | ~~https://get.porta1.net~~                            | usenode.net                      | 1TB | X    | X  |                                   |
-| A1                | ~~https://a1.lx.workers.dev~~                         | 2002000.xyz                      | 5TB | X    | X  |                                   |
-| A1                | ~~https://od.kbbldh.workers.dev~~                     | lbbldh.tk                        | 5TB | X    | X  |                                   |
-| A1                | ~~https://25t.zxd.workers.dev~~                       |                                  | 5TB | X    | X  |                                   |
-| A1                | ~~https://azzzzzz.lx.workers.dev~~                    | moe.bartonclough.co.uk           | 1TB | X    | X  |                                   |
-| A1                | ~~https://freems.1ove.club/a1/~~                      | ~~a.1ove.ml~~                    | 5TB | X    | X  |                                   |
-| Teams Exp         | ~~https://azure.starter.workers.dev~~                 | ~~yun.wwwpensbyhighschool.com~~  | 1TB | X    | O  |                                   |
-| E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                                   |
+| Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                 |
+|-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-------------------------|
+| A1                | https://office.zppcw.cn                               | vwb.me                           | 5TB | X    | X  | 不能创建 API              |
+| A1                | ~~https://ceo.qiantigers.workers.dev~~                | ceo.co.ax                        | 5TB | X    | X  | sms activation required |
+| A1                | ~~https://onedrive.gdrive.vip~~                       | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429 |
+| Teams Exp         | ~~https://freems.1ove.club/exp/~~                     | exp.1ove.ml                      | 5T  | X    | X  | paid                    |
+| A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | X   | X    | X  |                         |
+| A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                         |
+| A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  | need activation code    |
+| A1                | ~~https://freems.1ove.club/ceo/~~                     | ceo.1ove.ml                      | X   | X    | X  |                         |
+| A1                | ~~http://office.zx.al~~                               |my365.ws<br>splogs.onmicrosoft.com| 5TB | O    | X  |                         |
+| A1                | ~~https://sky.kits.workers.dev/~~                     | free.stulive.com                 | X   | X    | X  |                         |
+| A1                | ~~https://free-a1.a1od.workers.dev~~                  | a1.free365.ltd                   | X   | X    | X  |                         |
+| A1                | ~~https://a1.typecho.blog/~~                          | typecho.blog<br>salemcs.org      | 5TB | X    | X  |                         |
+| A1P               | ~~https://www.apioffice.workers.dev~~                 | apioffice.net                    | 5TB | X    | X  |                         |
+| A1                | ~~https://od.wasonliu.workers.dev~~                   | f.odpan.cn                       | 5TB | X    | X  |                         |
+| A1                | ~~https://zcnp.azurewebsites.net~~                    | niup.onmicrosoft.com             | X   | O    | X  |                         |
+| A1                | ~~https://zcmail.azurewebsites.net~~                  | mailc.onmicrosoft.com            | X   | O    | X  |                         |
+| A1                | ~~https://get.porta1.net~~                            | usenode.net                      | 1TB | X    | X  |                         |
+| A1                | ~~https://a1.lx.workers.dev~~                         | 2002000.xyz                      | 5TB | X    | X  |                         |
+| A1                | ~~https://od.kbbldh.workers.dev~~                     | lbbldh.tk                        | 5TB | X    | X  |                         |
+| A1                | ~~https://25t.zxd.workers.dev~~                       |                                  | 5TB | X    | X  |                         |
+| A1                | ~~https://azzzzzz.lx.workers.dev~~                    | moe.bartonclough.co.uk           | 1TB | X    | X  |                         |
+| A1                | ~~https://freems.1ove.club/a1/~~                      | ~~a.1ove.ml~~                    | 5TB | X    | X  |                         |
+| Teams Exp         | ~~https://azure.starter.workers.dev~~                 | ~~yun.wwwpensbyhighschool.com~~  | 1TB | X    | O  |                         |
+| E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                         |
 
 ```X``` 的意思是我看到```Throttle.htm```。大概率SP已经翻车
 
