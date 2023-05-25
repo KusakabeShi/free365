@@ -61,13 +61,13 @@
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-------------------------|
 | A1                | https://office.zppcw.cn                               | vwb.me                           | 5TB | X    | X  | 不能创建 API              |
 | A1                | https://vo.loliloli.moe                               | free.ms.loliloli.me              | 1TB | X    | X  |                         |
-| A1                | ~~https://ceo.qiantigers.workers.dev~~                | ceo.co.ax                        | 5TB | X    | X  | sms activation required |
-| A1                | ~~https://onedrive.gdrive.vip~~                       | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429 |
 | A1                | https://vnshare.top                                   | onedrive.iesschool.edu.vn        | 5TB | X    | X  |                         |
-| Teams Exp         | ~~https://freems.1ove.club/exp/~~                     | exp.1ove.ml                      | 5T  | X    | X  | paid                    |
 | A1                | https://a1_free365.a1od.workers.dev                   | a1.free365.org                   | X   | X    | X  |                         |
 | A1                | https://a1_sc.a1od.workers.dev                        | relaaa.org                       | X   | X    | X  |                         |
 | A1                | https://get.porta1.net/                               | usernode.net                     | X   | X    | X  | need activation code    |
+| Teams Exp         | ~~https://freems.1ove.club/exp/~~                     | exp.1ove.ml                      | 5T  | X    | X  | paid                    |
+| A1                | ~~https://ceo.qiantigers.workers.dev~~                | ceo.co.ax                        | 5TB | X    | X  | sms activation required |
+| A1                | ~~https://onedrive.gdrive.vip~~                       | onedrive5tb.com                  | 5TB | O    | X  | High chance you get 429 |
 | A1                | ~~https://freems.1ove.club/ceo/~~                     | ceo.1ove.ml                      | X   | X    | X  |                         |
 | A1                | ~~http://office.zx.al~~                               |my365.ws<br>splogs.onmicrosoft.com| 5TB | O    | X  |                         |
 | A1                | ~~https://sky.kits.workers.dev/~~                     | free.stulive.com                 | X   | X    | X  |                         |
