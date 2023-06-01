@@ -43,7 +43,7 @@
 | A1      | ~~http://www.yopmail.com~~   | houstondebate.com                            | 1TB     | X  | domain expired                                                                                            |     |   |
 | A1      | ~~http://www.yopmail.com~~   | vikingdublin.com                             | 5TB     | X  | domain expired                                                                                            | X   |   |
 | A1      | ~~http://www.yopmail.com~~   | zhongguo.office.gy<br>aiwozhongguo.office.gy | 5TB     | X  | eligibility dropped                                                                                       |     |   |
-| A1      | http://our.pp.ua             | our.pp.ua                                    | X       | X  |                                                                                                           |     |   |
+| A1      | ~~http://our.pp.ua~~         | our.pp.ua                                    | X       | X  |                                                                                                           |     |   |
 | A1      | ~~http://mail.0du.win~~      | mullinsmarion.org                            | 1TB     | X  | eligibility dropped                                                                                       |     |   |
 | A1      | ~~http://www.yopmail.com~~   | ropcourses.com                               | 2TB     | X  | IT closed                                                                                                 |     |   |
 | A1      | ~~http://mail.0du.win~~      | athena525.org                                | 1TB     | X  |                                                                                                           |     |   |
@@ -96,6 +96,6 @@
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-----------------------------------|
 | No Licence        | https://2gfre.kskb.eu.org                             | 2gfre.mcsoft.org                 | 2GB | X    | X  | [Detailed Information](https://www.kskb.eu.org/2021/02/teams.html)      |
 | No Licence        | https://21vapi.kskb.eu.org                            | 21vapi.mcsoft.org                | X   | X    | X  | [Detailed Information](https://www.kskb.eu.org/2021/04/21vianet-office365.html)      |
-| A1(2023/03/25 End)| https://a1.shinenet.cn/free                           | fufcvco.onmicrosoft.com          | 5TB | X    | X  | [Detailed Information](https://www.shinenet.cn/archives/176.html)       |
+| A1(2023/03/25 End)| ~~https://a1.shinenet.cn/free~~                       | fufcvco.onmicrosoft.com          | 5TB | X    | X  | [Detailed Information](https://www.shinenet.cn/archives/176.html)       |
 | No Licence        | ~~https://malahu.n5.myws.ca~~                         | malahu.tk                        | X   | X    | X  |                                   |
 
