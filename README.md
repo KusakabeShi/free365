@@ -59,6 +59,7 @@
 
 | Licence           | URL                                                   | Domain                           | OD  | Mail | AZ | Comment                 |
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-------------------------|
+| A1                | https://365.liout.com/                                |                                  | 1TB | X    |    |                       |
 | A1                | https://office.zppcw.cn                               | vwb.me                           | 5TB | X    | X  | 不能创建 API              |
 | A1                | https://vo.loliloli.moe                               | free.ms.loliloli.me              | 1TB | X    | X  |                         |
 | A1                | https://vnshare.top                                   | onedrive.iesschool.edu.vn        | 5TB | X    | X  |                         |
@@ -85,6 +86,7 @@
 | A1                | ~~https://freems.1ove.club/a1/~~                      | ~~a.1ove.ml~~                    | 5TB | X    | X  |                         |
 | Teams Exp         | ~~https://azure.starter.workers.dev~~                 | ~~yun.wwwpensbyhighschool.com~~  | 1TB | X    | O  |                         |
 | E3SY              | ~~https://freeoffice365.me~~                          | ~~office.jimschool.org~~         | 5TB | X    | X  |                         |
+
 
 ```X``` 的意思是我看到```Throttle.htm```。大概率SP已经翻车
 
