@@ -61,7 +61,7 @@
 |-------------------|-------------------------------------------------------|----------------------------------|-----|------|----|-------------------------|
 | A1                | https://365.liout.com/                                |                                  | 1TB | X    |    |                         |
 | A1                | https://vo.loliloli.moe                               | free.ms.loliloli.me              | 1TB | X    | X  |                         |
-| A1                | https://vnshare.top                                   | onedrive.iesschool.edu.vn        | 5TB | X    | X  |                         |
+| A1                | ~~https://vnshare.top~~                               | onedrive.iesschool.edu.vn        | 1TB | X    | X  |                         |
 | A1                | ~~https://get.porta1.net/~~                           | usernode.net                     | X   | X    | X  | need activation code    |
 | A1                | ~~https://office.zppcw.cn~~                           | vwb.me                           | 5TB | X    | X  | 不能创建 API            |
 | A1                | ~~https://a1_free365.a1od.workers.dev~~               | a1.free365.org                   | X   | X    | X  |                         |
